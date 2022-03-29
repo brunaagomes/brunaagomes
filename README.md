@@ -1,5 +1,5 @@
 
-<h1> Seja Bem-vindo!!</h1>
+<h1> Seja Bem-vinda(o)!!</h1>
 <p>
 <p>
 <p>🚀   Futura Gestora de QA <p/>
