@@ -1,5 +1,5 @@
 
-<h1> Seja Bem-vindo, eu sou a Bruna 🌻</h1>
+<h1> Seja Bem-vindo!!
 <p>
 <p>
 <p>🚀   Futura Gestora de QA <p/>
